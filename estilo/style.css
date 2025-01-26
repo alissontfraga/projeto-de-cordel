@@ -67,7 +67,7 @@ section#img02{
 section.normal{
     background-color: white;
     color: black;
-    text-shadow: 2px 1px 0px rgba(0, 0, 0, 0.562);
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.562);
 }
 section.imagem{
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.664);
