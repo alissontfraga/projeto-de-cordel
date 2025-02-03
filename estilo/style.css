@@ -22,11 +22,11 @@ header>h1{
     font-family: var(--fonte3);
     padding-top: 50px;
     font-variant: small-caps;
-    font-size: 7vw;
+    font-size: 5vw;
     
 }
 header>p{
-    font-size: 1.8vw;
+    font-size: 1.4vw;
     padding-bottom: 50px;
 }
 html,body{
